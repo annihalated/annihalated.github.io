@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Workflow"
+date:   2022-08-24 05:57:00 +0530
+permalink: /workflow
+categories: personal
+---

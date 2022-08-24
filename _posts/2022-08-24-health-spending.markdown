@@ -5,7 +5,9 @@ date:   2022-08-24 05:57:00 +0530
 permalink: /health-spending/
 categories: 
 ---
+
 <iframe src="https://ourworldindata.org/grapher/public-health-expenditure-share-GDP-OWID?time=1920..latest&country=IND~CHN" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
 **I.**
 
 Governments usually spend more on healthcare as they become richer. Between 2000-2018, India's GDP grew from $468 billion to $2.7 trillion. In the same period, Chinese Government Health Spending (GHS) grew from one percent to nearly three percent of GDP. In India, however, GHS stagnated at around one percent. 
