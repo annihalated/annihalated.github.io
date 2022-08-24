@@ -3,31 +3,24 @@ layout: page
 title: About
 permalink: /about/
 ---
+I am a writer and researcher. I have worked for, published in, consulted for, or interned at: [*Vidhi*](https://vidhilegalpolicy.in) (2022-present), [*Dialogue*](https://thedialogue.co.in) (2020), and private clients (2021-); everything here should be considered my own opinion, taken at my risk, and not attributable to my past or present employers. I also publish a newsletter on [Substack](https://nihalsahu.substack.com).
 
-I'm [Nihal Sahu](https://www.linkedin.com/in/nihal-sahu/). I'm a writer and researcher currently living in Kochi, Kerala. I grew up in Chennai, Tamil Nadu. I am a law student at the National University of Advanced Legal Studies.
+During law school (2018-2023), I was a Managing Editor (Blog) and Senior Editor at my law school's [flagship journal.](https://nualslawjournal.com/)
 
-Things I'm Involved with and areas of interest:
 
--   **Policy.** As of June 2022, I'm a research associate at the [Vidhi Center for Legal Policy](https://vidhilegalpolicy.in/), with the Health team.
--   **Writing.** I'm writing on my substack, [Arguable](https://arguable.substack.com/), and trying my best to become a more productive writer without compromising on quality. I also spend a small percentage of my time writing for other great publications like the [Leaflet](https://theleaflet.in/author/nihal-sahu/).
--   **Litigation.** I spend some of my time assisting a lawyer at the Kerala High Court, focused on public law issues. For some reason, I like courts.
+## Forms and Functions
 
-Previously, in reverse chronological order
+This isn't quite a blog. Well, the general impulse is blog-adjacent, but it breaks convention by failing to publish in discrete, completed units. This website will contain plenty of material that is *in-progress*. I hope to slowly develop a habit of writing into a pepetually-open terminal, documenting ideas and thoughts from research papers, blog posts, and other materials.
 
--   I spent a few months interning at [The Dialogue](https://thedialogue.co/), working on public health and digital systems. This was extremely useful work, since it was my first exposure to excellent researchers working in a thoroughly professional environment.
--   I was a senior editor and managing editor of the blog at my law school's [flagship journal.](https://nualslawjournal.com/)
+[Gwern](https://gwern.net), as usual, articulates this motivation best: 
+> My answer is that one uses such a framework to work on projects that are too big to work on normally or too tedious. (Conscientiousness is often lacking online or in volunteer communities and many useful things go undone.) Knowing your site will survive for decades to come gives you the mental wherewithal to tackle long-term tasks like gathering information for years, and such persistence can be useful if one holds onto every glimmer of genius for years, then even the dullest person may look a bit like a genius himself. (Even experienced professionals can only write at their peak for a few hours a day—usually first thing in the morning it seems.) Half the challenge of fighting procrastination is the pain of starting—I find when I actually get into the swing of working on even dull tasks, it’s not so bad. So this suggests a solution: never start. Merely have perpetual drafts, which one tweaks from time to time. And the rest takes care of itself. 
 
-In my free time I read weird blogs, ride the Kochi metro, and go on runs.
+This is helpful if your sole objective, like Gwern, is to build a library of Alexandria on the internet. Some mortals are not so lucky. Instead, I have to produce journal articles, reports, white papers, individual research notes, and all sorts of [grey literature](https://en.wikipedia.org/wiki/Grey_literature), which live on Google Docs, and later, as PDFs. My main workflow challenge is to reasonably divide my time between focused professional output and [learning in public](http://gregorygundersen.com/blog/2020/01/12/why-research-blog).
 
-#### Why do you blog?
+## Workflow
 
-To quote [Jeff Atwood](https://blog.codinghorror.com/about-me/):
+I occasionally get overwhelmed by commitments, and enter a vague twilight-zone state of anxiety over not having everything filed away perfectly, perhaps in a Personal Knowledge Management (PKM) system. I invariably come to my senses a few hours later, but by then, I will have created multiple Notion databases, downloaded and deleted Obsidian for the twentieth time or so, and impulse shopped for notebooks from Moleskine. This is devastating to my plans for that evening, which are probably something fairly pedestrian, like reading a paper. 
 
-> Mostly for selfish reasons. I needed a way to keep track of software development over time -- whatever I am thinking about or working on. I research things I find interesting, then document my research with a public blog post, which I can easily find and refer to later. Hopefully other people will find these posts helpful, relevant, or interesting.
+I'm going to try to build a system that works for me, optimizing for simplicity and highly specialised use cases that probably will be a waste of time for you. My main use cases are: managing PDFs, because I work with a lot of them; managing notes taken from those PDFs; managing drafts; managing webclips; manage tasks; manage a schedule; manage routine and various lists. 
 
-#### How can I contact you?
-
--   <iamnihalsahu@gmail.com>
--   [@annihalated](http://twitter.com/annihalated)
--   [LinkedIn](https://linkedin.com/in/nihal-sahu)
--   [Google Scholar](https://scholar.google.com/citations?user=JXxFYj4AAAAJ&hl=en).
+Alright, PDFs are the hard part. They go into Google Drive, after being thoroughly broken, stripped, and renamed by Zotfile, zotero-scihub, and so on. Maximal automation is the objective here. I can open them directly or, as happens more often, through Zotero. Notes and annotations usually stay on the PDF. I wish there was a way to mass-export them into an Evernote or something like that. 

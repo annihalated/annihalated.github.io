@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Health Spending"
+title:  Health Spending
 date:   2022-08-24 05:57:00 +0530
 permalink: /health-spending/
 categories: 
