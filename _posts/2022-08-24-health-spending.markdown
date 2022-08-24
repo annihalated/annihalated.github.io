@@ -2,6 +2,7 @@
 layout: post
 title:  "Health Spending"
 date:   2022-08-24 05:57:00 +0530
+permalink: /health-spending/
 categories: 
 ---
 <iframe src="https://ourworldindata.org/grapher/public-health-expenditure-share-GDP-OWID?time=1920..latest&country=IND~CHN" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
@@ -11,7 +12,7 @@ Governments usually spend more on healthcare as they become richer. Between 2000
 
 As a result, India has one of the[ lowest public health budgets in the world](https://timesofindia.indiatimes.com/india/indias-health-budget-fourth-lowest-in-world-oxfam/articleshow/78597933.cms) relative to the size of its economy. But why? Health and education, Amartya Sen keeps telling us, are[ central to sustained economic growth](https://www.theguardian.com/society/2015/jan/06/-sp-universal-healthcare-the-affordable-dream-amartya-sen). This is, of course, a product of the slightly important fact that people end up living longer, healthier lives.  Why wouldn't India want a thriving, healthy middle class and profit from that demographic dividend everyone keeps talking about?
 
-Let's start by breaking down health spending. 
+Let's start by breaking down health spending.
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Faeaaa7fa-bbf9-49b3-8261-406d767a6417_975x727.png)
 
@@ -56,3 +57,4 @@ If I haven't linked to a fact or statistic in the body text, it's from one of th
 -   Rukmini S., Whole Numbers and Half Truths: What Data Can and Cannot Tell Us About Modern India (2021) ([amazon](https://www.amazon.in/Whole-Numbers-Half-Truths-Cannot/dp/9391234674/))
 
 -   Sujatha Rao, Do We Care? India's Health System (2018) ([amazon](https://www.amazon.in/Do-We-Care-OIP-Indias/dp/0190125314/))
+
