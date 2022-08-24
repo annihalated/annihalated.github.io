@@ -18,7 +18,9 @@ Let's start by breaking down health spending.
 
 *Source: National Health Accounts Estimates for India, Published November 2018 ([link](https://main.mohfw.gov.in/sites/default/files/NHA_Estimates_Report_2015-16_0.pdf))*
 
-Most healthcare costs are paid by patients out of pocket, and most of that goes to medicines, diagnostics, and ambulatory care (which is the healthcare you get without being admitted to a hospital). Formal insurance schemes make up less than a tenth. Public health spending (the states and the central government combined) makes up less than a third of the total health expenditure in India. 
+Most healthcare costs are paid by patients out of pocket, and most of that goes to medicines, diagnostics, and ambulatory care (which is the healthcare you get without being admitted to a hospital). Formal insurance schemes make up less than a tenth. Public health spending (the states and the central government combined) makes up less than a third of the total health expenditure in India.
+
+
 
 **II.**
 
@@ -26,7 +28,7 @@ Why is public health spending so low, despite the burden that healthcare costs p
 
 While India is not particularly spendthrift -- government spending was only about 18% of GDP in 2021 -- we do have massive food and fertiliser subsidies. Health just doesn't seem to be a big priority.  Sujatha Rao (*[Do We Care?](https://www.amazon.in/Do-We-Care-Indias-Health/dp/0199469547)*[, 2016](https://www.amazon.in/Do-We-Care-Indias-Health/dp/0199469547)), who we will rely on extensively, blames economists for this. The post-independence Nehruvian Model emphasised economic planning and development, and particularly focused on self-sufficiency and reducing imports. The government focused aggressively on irrigation, agriculture, and power plants and neglected education and health in the process. While China was launching[ massive campaigns](https://en.wikipedia.org/wiki/Barefoot_doctor) for behaviour change, hygiene, and sanitation, India stuck to a narrow public health agenda limited to family planning and malaria prevention. 
 
-Maybe the government is simply leaving the market to its devices. Did private providers expand to fill the gap created by the absence of the state? Contrary to popular perception, private healthcare is not merely available to the wealthy. In rural India, "most providers are in the private sector (86 per cent)." These private providers are usually unqualified -- with no formal training. However, it turns out (from a[ 2010-11 study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3730274/) in rural Madhya Pradesh and urban Delhi) that "private practitioners with no formal training were as likely to diagnose correctly as qualified doctors in government hospitals." But If government doctors are as bad as unqualified providers, that is a failure of medical education, not the success of the market. The private sector can provide healthcare, and they fill a massive gap, but not at a low enough cost to meet the needs of India's poorest. And the private sector can't do massive public health programmes or invest in preventive care.
+Maybe the government is simply leaving the market to its devices. Did private providers expand to fill the gap created by the absence of the state? Contrary to popular perception, private healthcare is not merely available to the wealthy. In rural India, "most providers are in the private sector (86 per cent)." These private providers are usually unqualified -- with no formal training. However, it turns out (from a[ 2010-11 study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3730274/) in rural Madhya Pradesh and urban Delhi) that "private practitioners with no formal training were as likely to diagnose correctly as qualified doctors in government hospitals." But if government doctors are as bad as unqualified providers, that is a failure of medical education, not the success of the market. The private sector can provide healthcare, and they fill a massive gap, but not at a low enough cost to meet the needs of India's poorest. And the private sector can't do massive public health programmes or invest in preventive care.
 
 **III.**
 
@@ -48,7 +50,7 @@ To sum up, It's not just expensive, but also incredibly hard to spend on health 
 
 I leave you with this: if a democratic state doesn't actively try to prevent about fifty million of its people from having to choose, every year, between poverty and death - what are we to call such a state? I'm not sure I have a better answer than "apathetic." Nevertheless, I have delivered on my reductionist premise that these things are not as simple as apathy. But, my dear reader, what on earth gave you the idea that apathy was simple? 
 
-* * * * *
+---
 
 *[Pradyumna Prasad](http://twitter.com/pradyuprasad), [Akshay](http://twitter.com/akshaygn01), [Nithya](http://twitter.com/MNithyassree), [Akshay Dinesh](http://twitter.com/asdofindia), and [Sanjana](http://twitter.com/sanjana113_) reviewed early drafts and improved this post substantially with their helpful comments.*
 
