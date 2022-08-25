@@ -25,11 +25,19 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: annihalated
 github_username: annihalated
+date_format: "%b %-d, %Y"
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+show_excerpts: true
+
+# header_pages:
+#   - about
+#   - notes
+#   - publications
+#   - resources
 
 include: ['_pages']
 # Exclude from processing.
