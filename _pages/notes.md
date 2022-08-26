@@ -19,3 +19,13 @@ This is where proto-essays, quotes, and random observations live.
 ## Web Design
 
 * Gwern.net, [Design](https://www.gwern.net/Design). *See* also [Sidenotes](https://www.gwern.net/Sidenotes)
+
+## New Labour
+
+Recently, I've been obsessed with reading and watching stuff about [New Labour](https://en.wikipedia.org/wiki/New_Labour). 
+
+1. [Emerging from the Penumbra](https://www.youtube.com/watch?v=t6HFs8pzuZM) (originally aired in 1997).
+2. [We are the Treasury](https://www.youtube.com/watch?v=ABpGUHL1aTI&t=417s). Brown is now Chancellor.
+3. [The New Labour Revolution](https://www.youtube.com/playlist?list=PL4eVel7gf90GcLAoXSaokzqPVOUrvqbIe)
+4. On Gordon Brown: 
+> "I found him odd at points, to be sure: the introspection, the intensity, finding him in his flat in Edinburgh on a Saturday morning in his suit trousers and white shirt, surrounded by a veritable avalanche of papers, but certainly, back then, it seemed an endearing eccentricity. He could be kind, generous, concerned, and often not just funny but with a rapier wit" *Tony Blair*, [My Journey](https://www.amazon.in/Journey-Tony-Blair/dp/0099525097) (2011).
