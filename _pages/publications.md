@@ -3,6 +3,8 @@ layout: page
 title: Publications
 permalink: /publications
 ---
+* Shreya Shrivastava, Nihal Sahu and Dhvani Mehta, ['Comments on the Drugs, Medical Devices and Cosmetics Bill, 2022'](https://vidhilegalpolicy.in/research/comments-on-the-drugs-medical-devices-and-cosmetics-bill-2022/) (*Vidhi Centre for Legal Policy*, August 2022).
+
 * Nihal Sahu and Keya Rebello, ['The debate around pendency in the Supreme Court needs a dash of empiricism'](https://theleaflet.in/the-debate-around-pendency-in-the-supreme-court-needs-a-dash-of-empiricism/) *The Leaflet* (12 February 2022).
 
 * Nihal Sahu and Sheerene Mohammed, ['Inessential Practices: charting a non-normative future for Indian religion jurisprudence'](https://www.tandfonline.com/doi/abs/10.1080/24730580.2021.1941689) (2022) 6 Indian Law Review 37. 
