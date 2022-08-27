@@ -3,12 +3,6 @@ layout: page
 title: About
 permalink: /about
 ---
-I am a writer and researcher. I have worked for, published in, consulted for, or interned at: [*Vidhi*](https://vidhilegalpolicy.in) (2022-present), [*Dialogue*](https://thedialogue.co.in) (2020), and private clients (2021-); everything here should be considered my own opinion, taken at my risk, and not attributable to my past or present employers. I also publish a newsletter on [Substack](https://nihalsahu.substack.com).
-
-During law school (2018-2023), I was a Managing Editor (Blog) and Senior Editor at my law school's [flagship journal.](https://nualslawjournal.com/)
-
-
-## Forms and Functions
 
 This isn't quite a blog. Well, the general impulse is blog-adjacent, but it breaks convention by failing to publish in discrete, completed units. This website will contain plenty of material that is *in-progress*. I hope to slowly develop a habit of writing into a pepetually-open text file, documenting ideas and thoughts from research papers, blog posts, and other materials.
 
