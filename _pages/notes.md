@@ -16,6 +16,12 @@ This is where proto-essays, quotes, and random observations live.
 
 *Eliezer Yudkowsky*, ['Working hurts less than procrastinating, we fear the twinge of starting'](https://www.lesswrong.com/posts/9o3QBg2xJXcRCxGjS/working-hurts-less-than-procrastinating-we-fear-the-twinge) (*LessWrong*, 2 January 2011). 
 
+>  ‘if you are just realistic, you become pedestrian, plebeian, you will fail. Therefore you must be able to soar above the reality and say, “This is also possible.” ’ 
+
+> ‘For forms of government let fools contest; whatever is best administered is best.’
+
+*Alexander Pope*
+
 ## Web Design
 
 * Gwern.net, [Design](https://www.gwern.net/Design). *See* also [Sidenotes](https://www.gwern.net/Sidenotes)
