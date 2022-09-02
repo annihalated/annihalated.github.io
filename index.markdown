@@ -15,3 +15,4 @@ Links:
 * [ORCiD](https://orcid.org/0000-0003-3236-7475)
 * [Scholar](https://scholar.google.co.in/citations?user=JXxFYj4AAAAJ&hl=en)
 
+If you'd like to explore working with me as a collaborator or as a consultant -- feel free to drop an [email](mailto:iamnihalsahu@gmail.com) or message me on [twitter](https://twitter.com/annihalated). 
