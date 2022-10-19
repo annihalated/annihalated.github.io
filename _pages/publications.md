@@ -3,6 +3,8 @@ layout: page
 title: Publications
 permalink: /publications
 ---
+* Shreya Shrivastava and Nihal Sahu, ['A missed opportunity: New drugs Bill is old medicine in new bottle'](https://www.deccanherald.com/opinion/panorama/a-missed-opportunity-new-drugs-bill-is-old-medicine-in-new-bottle-1149178.html) *Deccan Herald* (28 September 2022).
+
 * Shreya Shrivastava, Nihal Sahu and Dhvani Mehta, ['Comments on the Drugs, Medical Devices and Cosmetics Bill, 2022'](https://vidhilegalpolicy.in/research/comments-on-the-drugs-medical-devices-and-cosmetics-bill-2022/) (*Vidhi Centre for Legal Policy*, August 2022).
 
 * Nihal Sahu and Keya Rebello, ['The debate around pendency in the Supreme Court needs a dash of empiricism'](https://theleaflet.in/the-debate-around-pendency-in-the-supreme-court-needs-a-dash-of-empiricism/) *The Leaflet* (12 February 2022).
