@@ -1,10 +1,13 @@
 ---
 title: "Tipping the Odds"
+excerpt: ""
 ---
 
 **I.**
 
-Chinmay [wrote a while ago](https://reallifelaughtrack.wordpress.com/2022/06/05/capped-prices-and-the-cab-crisis/) about why it's difficult to get cabs in Bangalore using aggregator apps like Uber or Ola. He thinks that the problem started with the [Aggregator Guidelines](https://morth.nic.in/sites/default/files/notifications_document/Motor%20Vehicle%20Aggregators27112020150046.pdf) issued by the Central Government.[1](#footnote-1) The Guidelines impose price controls on aggregator apps and allow for dynamic/surge pricing only up to 1.5x or 0.5x of the base fare. This corrupts the market mechanism, puts cabs out of business, and makes things worse for customers.
+Chinmay [wrote a while ago](https://reallifelaughtrack.wordpress.com/2022/06/05/capped-prices-and-the-cab-crisis/) about why it's difficult to get cabs in Bangalore using aggregator apps like Uber or Ola. He thinks that the problem started with the [Aggregator Guidelines](https://morth.nic.in/sites/default/files/notifications_document/Motor%20Vehicle%20Aggregators27112020150046.pdf) issued by the Central Government. The Guidelines impose price controls on aggregator apps and allow for dynamic/surge pricing only up to 1.5x or 0.5x of the base fare. This corrupts the market mechanism, puts cabs out of business, and makes things worse for customers.
+
+(Let us, for a moment, not be nitpicky about the fact that Chinmay was talking about Bangalore, and that Karnataka's legislation, [*the Karnataka On-Demand Transportation Technology Aggregator Rules, 2016*](https://dpal.karnataka.gov.in/storage/pdf-files/Karnataka%20Rules/59%20of%201988%20Central%20Rules%20(E).pdf), predates the Central Government guidelines.)
 
 Chinmay offered a sweet solution: Huber should let customers offer "tips" *in advance* of the ride being accepted by a driver. This re-establishes a market and sidesteps the price control. Whether this will work depends on the definition of "fare" in the guidelines. If a tip is part of the fare, then Chinmay's solution would be illegal. If it isn't, he has successfully helped a corporation evade government regulation - this is the bread and butter of in-house legal advisors. Congratulations!
 
@@ -112,6 +115,5 @@ And anyway, who knows? He might get lucky and end up in front of a judge who has
 
 Thanks for reading! Subscribe to receive new posts and support my work.
 
-[1](#footnote-anchor-1)
 
-Let us, for a moment, not be nitpicky about the fact that Chinmay was talking about Bangalore, and that Karnataka's legislation, [*the Karnataka On-Demand Transportation Technology Aggregator Rules, 2016*](https://dpal.karnataka.gov.in/storage/pdf-files/Karnataka%20Rules/59%20of%201988%20Central%20Rules%20(E).pdf), predates the Central Government guidelines.
+
