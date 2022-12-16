@@ -3,10 +3,10 @@ title: The Second Best is a Formal Order
 excerpt: If you're a close friend and had a conversation with me yesterday, you probably heard me talk a lot about British history --- you probably even heard me express some ineffable sense of gravity at the death of a British monarch. But why?
 ---
 
-> The desires of the heart are as crooked as corkscrews
-> Not to be born is the best for man
-> The second best is a formal order
-> The dance's pattern, dance while you can.
+> The desires of the heart are as crooked as corkscrews\
+> Not to be born is the best for man\
+> The second best is a formal order\
+> The dance's pattern, dance while you can.\
 > **~ W.H. Auden**
 
 If you're a close friend and had a conversation with me yesterday, you probably heard me talk a lot about British history --- you probably even heard me express some ineffable sense of gravity at the death of a British monarch. Parts of Twitter have been unfailingly funny in mocking those who believe in such an archaic mechanism as *monarchy*. And who can blame them? Being the symbolic head of a state which has repressed and killed populations around the world is unlikely to earn Elizabeth II a lot of beatifying eulogies from erstwhile conquered peoples. 
