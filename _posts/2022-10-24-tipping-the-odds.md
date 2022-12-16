@@ -1,6 +1,6 @@
 ---
 title: "Tipping the Odds"
-excerpt: ""
+excerpt: "Chinmay argues that it's difficult to get an Uber in Bangalore because of government price controls. His solution, a clever reading of the law that escapes the price control, doesn't work. But understanding why it doesn't requires understanding the legal system from scratch."
 ---
 
 **I.**
