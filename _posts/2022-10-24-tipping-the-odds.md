@@ -112,8 +112,3 @@ This little exchange caused me to have a *view quake* - a clear nine on the Rich
 As for Chinmay, which court he ends up in front of, what they think, and how they feel about cab aggregators and price controls is at least as important as the law in the statute book. 
 
 And anyway, who knows? He might get lucky and end up in front of a judge who has had trouble catching a cab in Bangalore.
-
-Thanks for reading! Subscribe to receive new posts and support my work.
-
-
-
