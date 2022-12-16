@@ -6,7 +6,7 @@ hide_sidebar: true
 <h2 class="bottom15">Recent Essays</h2>
 <div class="row bottom15">
 
-{% for post in site.posts %}
+{% for post in site.posts limit:3 %}
   <div class="post-header-home col-sm-4">
     <h3 class="post-title-home"><a href="{{ post.url | prepend:site.baseurl}}">{{post.title}}</a></h3>
     <div class="post-excerpt-home">
