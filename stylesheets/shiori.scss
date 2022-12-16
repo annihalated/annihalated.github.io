@@ -46,6 +46,7 @@ $blue: #3498db;
 $purple: #9b59b6;
 $orange: #e67e22;
 $red: #e74c3c;
+$vidhi: #dc002d;
 
 {% unless site.data.theme.color == "default" %}
   $theme-color: ${{ site.data.theme.color }};
