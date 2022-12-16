@@ -20,6 +20,6 @@ hide_sidebar: true
 
 <hr>  
 <div class="home-read-more">
-  <a href="{{ "/archive" | prepend:site.baseurl }}" class="btn btn-primary btn-block btn-lg">All {{ site.posts | size }} Articles →</a>
+  <a href="{{ "/archive" | prepend:site.baseurl }}" class="btn btn-primary btn-block btn-lg">All {{ site.posts | size }} Essays →</a>
 </div>
 
