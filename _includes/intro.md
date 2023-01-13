@@ -10,3 +10,6 @@ I try not to negatively characterize or attribute malice to anyone, and I try to
 My critical skills are law, writing, research, project management, and software. In a different life, I wrote a lot of software every day. In this one, I write a little software every week to help with my research. 
 
 These days, I'm working at [Vidhi](https://vidhilegalpolicy.in) on health policy and pharmaceutical regulation. Opinions expressed on this site are my own. 
+
+You can also subscribe to my Substack, where I write a weekly newsletter!
+<iframe src="https://nihalsahu.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
