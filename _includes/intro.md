@@ -12,4 +12,6 @@ My critical skills are law, writing, research, project management, and software.
 These days, I'm working at [Vidhi](https://vidhilegalpolicy.in) on health policy and pharmaceutical regulation. Opinions expressed on this site are my own. 
 
 You can also subscribe to my Substack, where I write a weekly newsletter!
+<p align="center">
 <iframe src="https://nihalsahu.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+</p>
