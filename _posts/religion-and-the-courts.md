@@ -40,3 +40,5 @@ There's also a third category of parties that show up in disputes. Sometimes, th
 As Bhatia states the question [in his paper](https://www.cambridge.org/core/journals/global-constitutionalism/article/abs/freedom-from-community-individual-rights-group-life-state-authority-and-religious-freedom-under-the-indian-constitution/6BC323DA5683AC163A15B85A173A8DC6), 'in what manner should a Constitution that guarantees the freedom of religion to both individuals and communities, mediate the claims of religious groups against the claims of their constituents?'
 
 Take Sabarimala, for example, where a piece of legislation said that customary restrictions on entry into Sabarimala temple would be maintained. The custom in question was a prohibition on the entry of women of a menstrual age into the temple. Women, or at least those who purported to speak for them, initiated a public interest litigation before the Supreme Court of India.
+
+

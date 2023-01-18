@@ -1,4 +1,13 @@
-<img src="/assets/images/nihal-sahu.jpeg" alt="drawing" width="200"/>
+<div class="row">
+    <div class="col-sm-4">
+        <img src="/assets/images/nihal-sahu.jpeg" alt="drawing" width="200"/>
+    </div>
+    <div class="col-sm-8">
+
+        <h1>Nihal Sahu</h1>
+    </div>
+
+</div>
 <br>
 
 I'm Nihal Sahu. 
@@ -11,7 +20,20 @@ My critical skills are law, writing, research, project management, and software.
 
 These days, I'm working at [Vidhi](https://vidhilegalpolicy.in) on health policy and pharmaceutical regulation. Opinions expressed on this site are my own. 
 
+Subscribe for updates to this site here: 
+<form
+  action="https://buttondown.email/api/emails/embed-subscribe/nihalsahu"
+  method="post"
+  target="popupwindow"
+  onsubmit="window.open('https://buttondown.email/nihalsahu', 'popupwindow')"
+  class="embeddable-buttondown-form">
+  <p>For occasional updates from me, enter your email below:</p>
+  <input placeholder="Email" type="email" name="email" id="bd-email" />
+  <input type="submit" value="Subscribe" />
+</form>
+<!--
 You can also subscribe to my Substack, where I write a weekly newsletter!
 <p align="center">
 <iframe src="https://nihalsahu.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
 </p>
+-->
